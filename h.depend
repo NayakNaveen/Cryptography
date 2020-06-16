@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1586602955 source:c:\users\sanjay\codeblocks\codeblocks-workspace\h\main.c
+	<stdio.h>
+	<conio.h>
+	<string.h>
+	<ctype.h>
+
+1586602955 source:c:\users\sanjay\desktop\4nm17cs109 4nm17cs179\code\main.c
+	<stdio.h>
+	<conio.h>
+	<string.h>
+	<ctype.h>
+
